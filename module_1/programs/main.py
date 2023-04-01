@@ -1,6 +1,6 @@
 from sys import path
 
-path.append('/home/win/src/PCAP-31/chp1_module/modules')
+path.append('/home/win/src/PCAP-31/module_1/modules')
 
 import module
 

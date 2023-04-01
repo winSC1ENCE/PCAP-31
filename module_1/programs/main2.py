@@ -1,5 +1,5 @@
 from sys import path
-# path.append('/home/win/src/PCAP-31/chapter_1/packages')
+# path.append('/home/win/src/PCAP-31/module_1/packages')
 
 # step 5-7
 # import extra.iota
@@ -23,7 +23,7 @@ from sys import path
 
 from sys import path
 
-path.append('/home/win/src/PCAP-31/chapter_1/packages/extrapack.zip')
+path.append('/module_1/packages/extrapack.zip')
 
 import extra.good.best.sigma as sig
 import extra.good.alpha as alp
