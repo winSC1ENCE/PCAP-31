@@ -20,7 +20,13 @@ def prodl(the_list):
     for element in the_list:
         prod *= element
     return prod
-
+def minl(the_list):
+    global __counter
+    __counter += 1
+    min = 1
+    for element in the_list:
+        min -= element
+    return min
 
 if __name__ == "__main__":
     print("I prefer to be a module, but I can do some tests for you.")
